@@ -11,6 +11,7 @@ public class GitIdeaApplication {
         SpringApplication.run(GitIdeaApplication.class, args);
         System.out.println("test1111");
         System.out.println("22222222222222");
+        System.out.println("fox");
     }
 
 }
