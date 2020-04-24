@@ -12,6 +12,7 @@ public class GitIdeaApplication {
         System.out.println("test1111");
         System.out.println("22222222222222");
         System.out.println("fox");
+        System.out.println("222222222222");
     }
 
 }
