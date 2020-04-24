@@ -10,6 +10,8 @@ public class GitIdeaApplication {
 
         SpringApplication.run(GitIdeaApplication.class, args);
         System.out.println("test111111");
+        System.out.println("test1111");
+
     }
 
 }
